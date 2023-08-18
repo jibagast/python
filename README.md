@@ -2,7 +2,7 @@
 All Credit to 
 DevOps Journey
 
-None of this work is mine. I have copied this repo for my training and learnig purpose.
+None of this work is mine. I have copied this repo for my training and learning purpose.
 
 https://www.youtube.com/@DevOpsJourney
 
