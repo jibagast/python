@@ -1,4 +1,11 @@
 
+All Credit to 
+DevOps Journey
+
+None of this work is mine. I have copied this repo for my training and learnig purpose.
+
+https://www.youtube.com/@DevOpsJourney
+
 ## YouTube Link
 For the full 1 hour course watch out youtube:
 https://www.youtube.com/watch?v=6YZvp2GwT0A
